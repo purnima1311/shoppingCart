@@ -36,7 +36,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/shopping-cart-assignment.git
+git clone https://github.com/purnima1311/shoppingCart
 Navigate to the project directory:
 bash
 Copy
