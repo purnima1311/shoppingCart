@@ -1,0 +1,11 @@
+
+{
+    "products": [
+      { "product": "cheerios", "price": 3.00 },
+      { "product": "cornflakes", "price": 2.52 },
+      { "product": "frosties", "price": 3.20 },
+      { "product": "shreddies", "price": 2.85 },
+      { "product": "weetabix", "price": 9.98 }
+    ]
+  }
+  
